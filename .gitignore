@@ -1,0 +1,6 @@
+*-backups/
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+#auto_saved_files#
+\#auto_saved_files\#

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Type-C.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/Libraries/locallib.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+[submodule "MX_Alps_Hybrid"]
+	path = libraries/MX_Alps_Hybrid
+	url = git@github.com:ai03-2725/MX_Alps_Hybrid.git
+[submodule "Type-C.pretty"]
+	path = libraries/Type-C.pretty
+	url = git@github.com:ai03-2725/Type-C.pretty.git
+[submodule "marbastlib"]
+	path = Libraries/marbastlib
+	url = git@github.com:ebastler/marbastlib.git
+	branch = untested
