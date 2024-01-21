@@ -3875,7 +3875,7 @@
     (uuid 39fd6eec-df64-4ec7-90d9-dff965db8c15)
     (property "Reference" "J1" (id 0) (at 289.56 109.22 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 289.56 111.76 0))
-    (property "Footprint" "marbastlib-various:USB_C_Receptacle_HRO_TYPE-C-31-M-14" (id 2) (at 293.37 132.08 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 293.37 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 293.37 132.08 0)
@@ -4218,7 +4218,7 @@
     (in_bom yes) (on_board yes)
     (uuid 542c3b37-d462-4e93-9988-5091b5e59bf5)
     (property "Reference" "R4" (id 0) (at 313.69 127 90))
-    (property "Value" "5k" (id 1) (at 313.69 129.54 90))
+    (property "Value" "5.1k" (id 1) (at 313.69 129.54 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 313.69 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4379,7 +4379,7 @@
     (in_bom yes) (on_board yes)
     (uuid 65a31d27-e55c-4cca-9abe-ecfeb4877455)
     (property "Reference" "R3" (id 0) (at 308.61 116.84 90))
-    (property "Value" "5k" (id 1) (at 308.61 119.38 90))
+    (property "Value" "5.1k" (id 1) (at 308.61 119.38 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 308.61 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7025,7 +7025,7 @@
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/39fd6eec-df64-4ec7-90d9-dff965db8c15"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "marbastlib-various:USB_C_Receptacle_HRO_TYPE-C-31-M-14")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/08e6d373-2bf3-4f1e-87e0-beb65fb65c5f"
       (reference "J2") (unit 1) (value "Conn_01x04_MountingPin") (footprint "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical")
@@ -7259,10 +7259,10 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/65a31d27-e55c-4cca-9abe-ecfeb4877455"
-      (reference "R3") (unit 1) (value "5k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "R3") (unit 1) (value "5.1k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/542c3b37-d462-4e93-9988-5091b5e59bf5"
-      (reference "R4") (unit 1) (value "5k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "R4") (unit 1) (value "5.1k") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/276330b8-e138-464f-8b38-13c9c7f3efbd"
       (reference "R5") (unit 1) (value "22") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")

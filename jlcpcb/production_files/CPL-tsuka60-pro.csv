@@ -79,7 +79,7 @@ D73,D_Small,D_SOD-123,309.5625,-167.48125,90.0,bottom
 D74,D_Small,D_SOD-123,328.6125,-167.48125,90.0,bottom
 D75,D_Small,D_SOD-123,331.7875,-167.48125,90.0,bottom
 F1,500mA,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,76.2,-97.63125,0.0,bottom
-J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-14,82.06,-86.1025,0.0,bottom
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,82.1,-82.24,180.0,bottom
 J2,Conn_01x04_MountingPin,JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical,102.39375,-97.63125,270.0,bottom
 MX1,MX-NoLED,SW_MX_HS_1u,73.025,-88.9,180.0,bottom
 MX2,MX-NoLED,SW_MX_HS_1u,92.075,-88.9,180.0,bottom
@@ -157,11 +157,11 @@ MX74,MX-NoLED,SW_MX_HS_1u,320.675,-165.1,0.0,bottom
 MX75,MX-NoLED,SW_MX_HS_1u,339.725,-165.1,0.0,bottom
 R1,10k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,96.5,-125.65,90.0,bottom
 R2,10k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,87.05,-123.825,0.0,bottom
-R3,5k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,74.6125,-85.0,90.0,bottom
-R4,5k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,89.69375,-84.93125,90.0,bottom
+R3,5.1k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,74.6125,-85.0,90.0,bottom
+R4,5.1k,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,89.69375,-84.93125,90.0,bottom
 R5,22,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,81.75625,-101.4,270.0,bottom
 R6,22,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,83.35,-101.4,270.0,bottom
 SW1,SW_Reset,SW_SPST_SKQG_WithStem,100.0125,-131.7625,180.0,bottom
-U1,ATmega32U4-M,QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,91.28125,-117.0,0.0,bottom
-U2,SRV05-4,SOT-23-6,81.75625,-96.8375,180.0,bottom
+U1,ATmega32U4-M,QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,91.28125,-117.0,270.0,bottom
+U2,SRV05-4,SOT-23-6,81.75625,-96.8375,0.0,bottom
 Y1,16MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,105.08125,-114.3,0.0,bottom
