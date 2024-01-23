@@ -79,6 +79,12 @@ D73,D_Small,D_SOD-123,309.5625,-167.48125,90.0,bottom
 D74,D_Small,D_SOD-123,328.6125,-167.48125,90.0,bottom
 D75,D_Small,D_SOD-123,331.7875,-167.48125,90.0,bottom
 F1,500mA,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,76.2,-97.63125,0.0,bottom
+H1,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,120.65,-98.425,0.0,top
+H2,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,215.9,-98.425,0.0,top
+H3,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-98.425,0.0,top
+H4,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,120.65,-155.575,0.0,top
+H5,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,196.85,-155.575,0.0,top
+H6,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-155.575,0.0,top
 J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,82.1,-82.24,180.0,bottom
 J2,Conn_01x04_MountingPin,JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical,102.39375,-97.63125,270.0,bottom
 MX1,MX-NoLED,SW_MX_HS_1u,73.025,-88.9,180.0,bottom
