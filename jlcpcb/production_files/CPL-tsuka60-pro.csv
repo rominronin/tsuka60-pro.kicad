@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,22pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,107.98125,-114.3,270.0,bottom
 C2,22pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,102.18125,-114.3,90.0,bottom
-C3,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,92.075,-111.125,0.0,bottom
+C3,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,90.6,-110.9,0.0,bottom
 C4,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,97.4,-121.44375,180.0,bottom
 C5,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,87.05,-122.2375,0.0,bottom
 C6,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,98.425,-115.09375,180.0,bottom
@@ -87,6 +87,7 @@ H5,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,196.85,-155.575,0.0,top
 H6,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-155.575,0.0,top
 J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,82.1,-82.24,180.0,bottom
 J2,Conn_01x04_MountingPin,JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical,102.39375,-97.63125,270.0,bottom
+J3,AVR-ISP-6,PinHeader_2x03_P2.54mm_Horizontal,112.0625,-94.3625,90.0,top
 MX1,MX-NoLED,SW_MX_HS_1u,73.025,-88.9,180.0,bottom
 MX2,MX-NoLED,SW_MX_HS_1u,92.075,-88.9,180.0,bottom
 MX3,MX-NoLED,SW_MX_HS_1u,111.125,-88.9,0.0,bottom
