@@ -4350,6 +4350,23 @@
     (pin "1" (uuid 9a19dc89-2247-443a-99a0-7e6135cf3fe7))
   )
 
+  (symbol (lib_id "marbastlib-mx:MX_stab") (at 139.7 241.3 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 47442934-60e8-4e6f-b94a-164ffe7747ad)
+    (property "Reference" "S2" (id 0) (at 138.43 245.11 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MX_stab" (id 1) (at 135.89 247.65 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "marbastlib-mx:STAB_MX_2u" (id 2) (at 139.7 241.3 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 139.7 241.3 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 190.5 228.6 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4855c882-bf2b-42b9-8749-fdf24f521454)
@@ -7613,6 +7630,9 @@
     )
     (path "/9dac59f1-3df0-47a1-84ef-4ecf60a4c056"
       (reference "S1") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_7u")
+    )
+    (path "/47442934-60e8-4e6f-b94a-164ffe7747ad"
+      (reference "S2") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_2u")
     )
     (path "/8177a6bd-bc14-4714-bc96-ad252ffed026"
       (reference "SW1") (unit 1) (value "SW_Reset") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
