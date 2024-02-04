@@ -87,7 +87,6 @@ H5,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,206.375,-155.575,0.0,top
 H6,MountingHole,MountingHole_2.2mm_M2_Pad_TopOnly,292.1,-155.575,0.0,top
 J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,82.1,-82.24,180.0,bottom
 J2,Conn_01x04_MountingPin,JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical,102.39375,-97.63125,270.0,bottom
-J3,AVR-ISP-6,PinHeader_2x03_P2.54mm_Horizontal,112.0625,-92.775,90.0,top
 MX1,MX-NoLED,SW_MX_HS_1u,73.025,-88.9,180.0,bottom
 MX2,MX-NoLED,SW_MX_HS_1u,92.075,-88.9,180.0,bottom
 MX3,MX-NoLED,SW_MX_HS_1u,111.125,-88.9,0.0,bottom
