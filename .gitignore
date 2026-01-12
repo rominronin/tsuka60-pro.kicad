@@ -4,3 +4,4 @@ _autosave-*
 *.kicad_pcb-bak
 #auto_saved_files#
 \#auto_saved_files\#
+.DS_Store
