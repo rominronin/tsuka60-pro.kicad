@@ -61,10 +61,6 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|151530000|91205000|115a0f65-5035-4acd-9b4e-78c3a3b5b51f|ad458b13-3c94-4d14-8036-7e56d9e0ede2",
-          ""
-        ],
-        [
           "courtyards_overlap|203845000|158105000|417059cc-f903-4b09-9d63-648a811f8901|ee541cea-0c41-4ddd-90e7-c39b32bc6c74",
           ""
         ],
@@ -1095,7 +1091,7 @@
   "sheets": [
     [
       "b3baaebd-c99d-4218-99ba-d40a73031965",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}
